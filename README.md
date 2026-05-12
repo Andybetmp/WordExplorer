@@ -1,10 +1,10 @@
-# 🌍 WorldExplorer – Prueba Técnica Andean
+# 🌍 WorldExplorer – Prueba Técnica
 
-Aplicación web que consume la [API pública de REST Countries](https://restcountries.com/) para mostrar información detallada sobre los 250 países del mundo.
+Aplicación web que consume la [API pública de REST Countries] para mostrar información detallada sobre los 250 países del mundo.
 
 ## 🚀 Demo
 
-> Disponible en: _[URL de Vercel una vez desplegado]_
+> Disponible en: https://word-explorer-n7ih.vercel.app/
 
 ---
 
